@@ -1,4 +1,4 @@
-MIST 4610 - Project 1 - Group 7:
+## MIST 4610 - Project 1 - Group 7:
 
 ## Team Name:
 
